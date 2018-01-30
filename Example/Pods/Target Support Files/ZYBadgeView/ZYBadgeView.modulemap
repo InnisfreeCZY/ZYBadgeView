@@ -1,0 +1,6 @@
+framework module ZYBadgeView {
+  umbrella header "ZYBadgeView-umbrella.h"
+
+  export *
+  module * { export * }
+}

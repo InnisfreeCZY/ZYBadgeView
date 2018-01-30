@@ -1,0 +1,16 @@
+PODS:
+  - ZYBadgeView (0.1.0)
+
+DEPENDENCIES:
+  - ZYBadgeView (from `../`)
+
+EXTERNAL SOURCES:
+  ZYBadgeView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZYBadgeView: 5b89885c2b05dc3f46a66a4f44bd61fd007e95f5
+
+PODFILE CHECKSUM: 23d41950179f64e4fe7662b31aa024117f104fde
+
+COCOAPODS: 1.2.1
