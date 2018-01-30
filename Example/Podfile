@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZYBadgeView_Example' do
+  pod 'ZYBadgeView', :path => '../'
+
+  target 'ZYBadgeView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
